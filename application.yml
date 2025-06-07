@@ -1,0 +1,26 @@
+emp:
+  info:
+    company:
+      location: chenni
+      name: CSK
+      size: 25
+    id: 7
+    id-details:
+      adharNo: 12345
+      panNo: 54347
+      voterId: XC32105
+    mobile-numbers:
+    - 9997770001
+    - 6664442228
+    - 3339991118
+    - 7778882229
+    name: dhoni
+    project-names:
+    - IND
+    - world1X
+    - Chennai1X
+    - Asia1X
+    skill-set:
+    - .Net
+    - C#
+    - ODBC
